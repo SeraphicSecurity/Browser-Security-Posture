@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerability
+    url: mailto:support@seraphicsecurity.com
+    about: Please report security vulnerabilities here
+  - name: Documentation Issue
+    url: https://github.com/SeraphicSecurity/Browser-Security-Posture/issues/new?labels=documentation
+    about: Report issues with documentation 
