@@ -1,4 +1,4 @@
-# Browser Security Posture Analysis Framework
+# Browser Security Posture Analysis: A Client-Side Security Assessment Framework
 
 <div align="center">
   
