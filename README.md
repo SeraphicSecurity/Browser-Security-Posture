@@ -1,9 +1,10 @@
-# 🔐 Browser Security Posture
+# Browser Security Posture Analysis Framework
 
 <div align="center">
   
+  <img src="https://seraphicsecurity.com/wp-content/uploads/2022/12/logo-seraphic.png.webp" alt="Seraphic Security Logo" width="300"/>
+  
   ![Version](https://img.shields.io/badge/status-active-success.svg)
-  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
 </div>
 
@@ -40,12 +41,6 @@ Browser Security Posture helps organizations:
 - Live simulation of different attack vectors
 - Full browser posture scan
 
-
-
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
