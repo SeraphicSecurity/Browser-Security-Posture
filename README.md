@@ -12,6 +12,23 @@
 
 This repository serves as the centralized hub for reporting issues and requesting features for the Browser Security Posture framework.
 
+## 🔗 Platform Links
+
+### Full Platform
+- [Browser Security](https://browser-security.io)
+- [Browser Security IO](https://browsersecurity.io)
+- [Browser Security AI](https://browsersecurity.ai)
+
+### Extensions Analysis
+- [Extension Security](https://extension.security)
+- [Extensions Security](https://extensions.security)
+- [Code Security](https://code.security)
+- [Package Security](https://package.security)
+
+### URL Analysis
+- [URL Security](https://url.security)
+
+---
 ### 🚨 Issue Reporting
 
 Found a bug or unexpected behavior? We want to know about it:
@@ -42,7 +59,6 @@ Browser Security Posture helps organizations:
 - Full browser posture scan
 
 
----
 
 <div align="center">
   <sub>Built with ❤️ by Seraphic Security</sub>
