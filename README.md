@@ -15,9 +15,7 @@ This repository serves as the centralized hub for reporting issues and requestin
 ## 🔗 Platform Links
 
 ### Full Platform
-- [Browser Security](https://browser-security.io)
-- [Browser Security IO](https://browsersecurity.io)
-- [Browser Security AI](https://browsersecurity.ai)
+- [Browser Total](https://browsertotal.com)
 
 ### Extensions Analysis
 - [Extension Security](https://extension.security)
